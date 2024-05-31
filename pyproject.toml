@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "oil-sentiment-api"
+version = "0.1.0"
+description = "API example for the oil-sentiment repo using FastAPI"
+authors = ["gc5232978 <gc5232978@gmail.com>"]
+readme = "README.md"
+license = "LICENSE.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.111.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
