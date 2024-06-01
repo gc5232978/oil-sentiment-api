@@ -4,7 +4,7 @@ Example API for the oil-sentiment repo using FastAPI.
 
 ## Description
 
-This project show how to setup a simple API:
+This project shows how to setup a simple API:
 
 ## Getting Started
 
